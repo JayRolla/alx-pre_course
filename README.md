@@ -1,2 +1,2 @@
 My first readme
-My alx swe repo
+My alx swe repository
